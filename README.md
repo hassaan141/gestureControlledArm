@@ -23,10 +23,11 @@ Using OpenCV and the MediaPipe library, this project detects and maps hand gestu
 ## Project Images
 
 ### Hand Tracking with MediaPipe
-*Insert image here showing hand landmarks detected by MediaPipe.*
+![image](https://github.com/user-attachments/assets/0caa4462-1b36-411f-999c-3f5b54c796d7)
 
 ### Robotic Arm Components
-*Insert image here showing 3D-printed InMoov parts.*
+![image](https://github.com/user-attachments/assets/76247be3-28fe-4515-bc8d-555bb22693d1)
 
 ### Full Assembly
-*Insert image here showing the fully assembled robotic arm.*
+![robotArm](https://github.com/user-attachments/assets/467d72d7-fc7c-4ce2-af33-bac3fae8bfd6)
+
